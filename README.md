@@ -1,2 +1,5 @@
-# Exploratory-Data-Analaysis-
-Here we perform Exploratory Data Analaysis on AirBnB data set.
+# EDA
+Exploratory Data Analaysis on AirBnB data set
+
+New York City Airbnb Open Data
+https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
